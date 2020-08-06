@@ -28,6 +28,7 @@ integradas.
 - ## Reunion de 300 personas
 
 1) Vamos a utilizar **ZOOM** haciendo uso principalmente de la SDK gratuita que ofrece para integrar una sala dentro del sitio.
+2) Todos los usuarios que vayan a ingresar exceptuando al HOST van a ingresar como INVITADOS ( referencia a invitado de zoom ).
 
 - ## Moderador de la reunion
 
